@@ -1,0 +1,25 @@
+body {
+    background-image: url("img/wood-bg.jpg");
+}
+
+#book-bg {
+    background-image: url("img/open_page.png");
+    height: 250px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#little-hero-img {
+    height: 4rem;
+    width: 9rem;
+    align-self: center;
+}
+
+#left-page {
+    width: 50%;
+}
+
+#right-page {
+    width: 50%;
+}
